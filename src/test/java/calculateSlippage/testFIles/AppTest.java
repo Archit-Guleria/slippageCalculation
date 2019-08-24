@@ -1,4 +1,4 @@
-package calculateSlippage.DigitalAssetTrading;
+package calculateSlippage.testFIles;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
